@@ -198,7 +198,7 @@ d.disp()
 ![image](https://github.com/user-attachments/assets/2ce25408-cc86-4000-858b-1ea033403fe7)
 
 ### Result: Thus, the given program is implemented and executed successfully .
-Exp.No:5(e)	HIERARCHICAL INHERITANCE
+ Exp.No:5(e)	HIERARCHICAL INHERITANCE
 
 ### AIM
 To write a Python program to Get the employee  and doctor details & display it using Hierarchical inheritance.create a parent (base) class name Details and two child (derived) classes named Employee and Doctor
